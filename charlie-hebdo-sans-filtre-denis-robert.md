@@ -4,9 +4,11 @@
 - Stratégie du choc, de Naomi Klein
 - De sang froid, de Truman capote
 - L'infinie comédie, de David Foster Wallace
+- La Société du spectacle, de Guy Debord
+- Commentaires sur la société du spectacle, de Guy Debord
+- La Vengeance de la pelouse, de Richard Brautigan
+- Un privé à Babylone, de Richard Brautigan
 ## Auteurs
-- Krishnamurti
+- Jiddu Krishnamurti
 - Noam Chomsky
-- Guy Deborge (la vie du spectacle, commentaires sur la vie spectacle) 
-- Richard brotigan (un privé à, truc sur la pelouse) 
-- Karl marx
+- Karl Marx
