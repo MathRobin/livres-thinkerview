@@ -1,4 +1,4 @@
-# Philippe Pascot, Corruption et Politique
+# [Philippe Pascot, Corruption et Politique](https://thinkerview.com/philippe-pascot-corruption-politique/)
 
 ## Livres
 - Pilleurs d'état, Allez (presque tous) vous faire ....., de Philippe Pascot
