@@ -1,9 +1,9 @@
 # Charlie hebdo sans filtre, Denis Robert
 ## Livres
-- Mohicans Denis Robert
-- Stratégie du choc de naomi klein
-- Trueman capote - de sang froid
-- David foster Wallace - l'infinie comédie 
+- Mohicans, de Denis Robert
+- Stratégie du choc, de Naomi Klein
+- De sang froid, de Truman capote
+- L'infinie comédie, de David Foster Wallace
 ## Auteurs
 - Krishnamurti
 - Noam Chomsky
