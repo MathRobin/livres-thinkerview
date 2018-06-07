@@ -4,3 +4,6 @@
 - Cellatex, quand l'acide a coulé, de Christian Larose
 - Moby Dick, de Herman Melville
 - La Guerre Des Classes, de François Ruffin
+
+## Auteurs
+- Jaurès
