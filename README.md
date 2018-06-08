@@ -6,6 +6,7 @@ La liste des interviews ici n'est pas exhaustive, elle est dépendante de mes é
 
 - [Charlie Hebdo sans filtre, Denis Robert](./charlie-hebdo-sans-filtre-denis-robert.md)
 - [François Ruffin, sans filtre : Journaliste VS Politique ?](./francois-ruffin-sans-filtre-journaliste-politique.md)
+- [Guillaume Ancel, Lieutenant colonel / Force d'action rapide](./guillaume-ancel-lieutenant-colonel-force-action-rapide.md)
 - [Jean-Marc Jancovici : Anticiper l’effondrement énergétique ?](./jean-marc-jancovici-anticiper-leffondrement-energetique.md)
 - [Perico Legasse, malbouffe et mondialisation](./perico-legasse-malbouffe-mondialisation.md)
 - [Philippe Pascot, Corruption et Politique](./philippe-pascot-coruption-et-politique.md)
